@@ -466,7 +466,7 @@
 							</goals>
 							<configuration>
 								<!-- https://stackoverflow.com/a/16743137/4247442 -->
-								<doclint>none</doclint>
+<doclint>none</doclint>
 								<quiet>true</quiet>
 							</configuration>
 						</execution>
